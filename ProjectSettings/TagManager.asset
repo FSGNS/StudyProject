@@ -10,6 +10,11 @@ TagManager:
   - Danger
   - PlayerRed
   - PlayerBlue
+  - BlueWin
+  - RedWin
+  - EndScreen
+  - Player1
+  - Player2
   layers:
   - Default
   - TransparentFX
